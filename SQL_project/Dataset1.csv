@@ -1,0 +1,841 @@
+District,State,Growth,Sex_Ratio,Literacy,Key
+Thane,Maharashtra,36.01%,886,84.53,ThaneMaharashtra
+North Twenty Four Parganas,West Bengal,12.04%,955,84.06,North Twenty Four ParganasWest Bengal
+Bangalore,Karnataka,47.18%,916,87.67,BangaloreKarnataka
+Pune,Maharashtra,30.37%,915,86.15,PuneMaharashtra
+Mumbai Suburban,Maharashtra,8.29%,860,89.91,Mumbai SuburbanMaharashtra
+South Twenty Four Parganas,West Bengal,18.17%,956,77.51,South Twenty Four ParganasWest Bengal
+Barddhaman,West Bengal,11.92%,945,76.21,BarddhamanWest Bengal
+Ahmadabad,Gujarat,24.03%,904,85.31,AhmadabadGujarat
+Murshidabad,West Bengal,21.09%,958,66.59,MurshidabadWest Bengal
+Jaipur,Rajasthan,26.19%,910,75.51,JaipurRajasthan
+Nashik,Maharashtra,22.30%,934,82.31,NashikMaharashtra
+Surat,Gujarat,42.24%,787,85.53,SuratGujarat
+Allahabad,Uttar Pradesh,20.63%,901,72.32,AllahabadUttar Pradesh
+Paschim Medinipur,West Bengal,13.86%,966,78,Paschim MedinipurWest Bengal
+Patna,Bihar,23.73%,897,70.68,PatnaBihar
+Hugli,West Bengal,9.46%,961,81.8,HugliWest Bengal
+Rangareddy,Andhra Pradesh,48.16%,961,75.87,RangareddyAndhra Pradesh
+Nadia,West Bengal,12.22%,947,74.97,NadiaWest Bengal
+East Godavari,Andhra Pradesh,5.16%,1006,70.99,East GodavariAndhra Pradesh
+Purbi Champaran,Bihar,29.43%,902,55.79,Purbi ChamparanBihar
+Purba Medinipur,West Bengal,15.36%,938,87.02,Purba MedinipurWest Bengal
+Guntur,Andhra Pradesh,9.47%,1003,67.4,GunturAndhra Pradesh
+Haora,West Bengal,13.50%,939,83.31,HaoraWest Bengal
+Muzaffarpur,Bihar,28.14%,900,63.43,MuzaffarpurBihar
+Belgaum,Karnataka,13.41%,973,73.48,BelgaumKarnataka
+Moradabad,Uttar Pradesh,25.22%,906,56.77,MoradabadUttar Pradesh
+Ghaziabad,Uttar Pradesh,42.27%,881,78.07,GhaziabadUttar Pradesh
+Nagpur,Maharashtra,14.40%,951,88.39,NagpurMaharashtra
+Chennai,Tamil Nadu,6.98%,989,90.18,ChennaiTamil Nadu
+Azamgarh,Uttar Pradesh,17.11%,1019,70.93,AzamgarhUttar Pradesh
+Lucknow,Uttar Pradesh,25.82%,917,77.29,LucknowUttar Pradesh
+Kanpur Nagar,Uttar Pradesh,9.92%,862,79.65,Kanpur NagarUttar Pradesh
+Ahmadnagar,Maharashtra,12.44%,939,79.05,AhmadnagarMaharashtra
+Krishna,Andhra Pradesh,7.87%,992,73.74,KrishnaAndhra Pradesh
+Kolkata,West Bengal,-1.67%,908,86.31,KolkataWest Bengal
+Jaunpur,Uttar Pradesh,14.89%,1024,71.55,JaunpurUttar Pradesh
+Madhubani,Bihar,25.51%,926,58.62,MadhubaniBihar
+Sitapur,Uttar Pradesh,23.88%,888,61.12,SitapurUttar Pradesh
+Bareilly,Uttar Pradesh,22.93%,887,58.49,BareillyUttar Pradesh
+Gorakhpur,Uttar Pradesh,17.81%,950,70.83,GorakhpurUttar Pradesh
+Agra,Uttar Pradesh,22.05%,868,71.58,AgraUttar Pradesh
+Gaya,Bihar,26.43%,937,63.67,GayaBihar
+Solapur,Maharashtra,12.16%,938,77.02,SolapurMaharashtra
+Visakhapatnam,Andhra Pradesh,11.96%,1006,66.91,VisakhapatnamAndhra Pradesh
+Samastipur,Bihar,25.53%,911,61.86,SamastipurBihar
+Jalgaon,Maharashtra,14.86%,925,78.2,JalgaonMaharashtra
+Chittoor,Andhra Pradesh,11.43%,997,71.53,ChittoorAndhra Pradesh
+Vadodara,Gujarat,14.38%,934,78.92,VadodaraGujarat
+Muzaffarnagar,Uttar Pradesh,16.94%,889,69.12,MuzaffarnagarUttar Pradesh
+Malappuram,Kerala,13.45%,1098,93.57,MalappuramKerala
+Hardoi,Uttar Pradesh,20.44%,868,64.57,HardoiUttar Pradesh
+Anantapur,Andhra Pradesh,12.10%,977,63.57,AnantapurAndhra Pradesh
+Raipur,Chhattisgarh,34.70%,984,75.56,RaipurChhattisgarh
+Kurnool,Andhra Pradesh,14.85%,988,59.97,KurnoolAndhra Pradesh
+Mahbubnagar,Andhra Pradesh,15.34%,977,55.04,MahbubnagarAndhra Pradesh
+Kheri,Uttar Pradesh,25.38%,894,60.56,KheriUttar Pradesh
+Kancheepuram,Tamil Nadu,38.95%,986,84.49,KancheepuramTamil Nadu
+Maldah,West Bengal,21.22%,944,61.73,MaldahWest Bengal
+Saran,Bihar,21.64%,954,65.96,SaranBihar
+Hyderabad,Andhra Pradesh,2.97%,954,83.25,HyderabadAndhra Pradesh
+Darbhanga,Bihar,19.47%,911,56.56,DarbhangaBihar
+West Godavari,Andhra Pradesh,3.51%,1004,74.63,West GodavariAndhra Pradesh
+Vellore,Tamil Nadu,13.20%,1007,79.17,VelloreTamil Nadu
+Pashchim Champaran,Bihar,29.29%,909,55.7,Pashchim ChamparanBihar
+Kolhapur,Maharashtra,10.01%,957,81.51,KolhapurMaharashtra
+Jalpaiguri,West Bengal,13.87%,953,73.25,JalpaiguriWest Bengal
+Rajkot,Gujarat,20.02%,927,80.96,RajkotGujarat
+Sultanpur,Uttar Pradesh,18.11%,983,69.27,SultanpurUttar Pradesh
+Karimnagar,Andhra Pradesh,8.15%,1008,64.15,KarimnagarAndhra Pradesh
+Thiruvallur,Tamil Nadu,35.33%,987,84.03,ThiruvallurTamil Nadu
+Aurangabad,Maharashtra,27.76%,923,79.02,AurangabadMaharashtra
+Jodhpur,Rajasthan,27.74%,916,65.94,JodhpurRajasthan
+Bijnor,Uttar Pradesh,17.60%,917,68.48,BijnorUttar Pradesh
+Budaun,Uttar Pradesh,19.95%,871,51.29,BudaunUttar Pradesh
+Varanasi,Uttar Pradesh,17.15%,913,75.6,VaranasiUttar Pradesh
+Alwar,Rajasthan,22.78%,895,70.72,AlwarRajasthan
+Aligarh,Uttar Pradesh,22.78%,882,67.52,AligarhUttar Pradesh
+North West Delhi,Delhi,27.81%,865,84.45,North West DelhiDelhi
+Ghazipur,Uttar Pradesh,19.18%,952,71.78,GhazipurUttar Pradesh
+Bankura,West Bengal,12.65%,957,70.26,BankuraWest Bengal
+Kushinagar,Uttar Pradesh,23.20%,961,65.25,KushinagarUttar Pradesh
+Ganjam,Orissa,11.66%,983,71.09,GanjamOrissa
+Warangal,Andhra Pradesh,8.21%,997,65.11,WarangalAndhra Pradesh
+Birbhum,West Bengal,16.15%,956,70.68,BirbhumWest Bengal
+Bulandshahar,Uttar Pradesh,20.12%,896,68.88,BulandshaharUttar Pradesh
+Ludhiana,Punjab,15.36%,873,82.2,LudhianaPunjab
+Vaishali,Bihar,28.57%,895,66.6,VaishaliBihar
+Nalgonda,Andhra Pradesh,7.41%,983,64.2,NalgondaAndhra Pradesh
+Bahraich,Uttar Pradesh,46.48%,892,49.36,BahraichUttar Pradesh
+Salem,Tamil Nadu,15.44%,954,72.86,SalemTamil Nadu
+Saharanpur,Uttar Pradesh,19.66%,890,70.49,SaharanpurUttar Pradesh
+Viluppuram,Tamil Nadu,16.84%,987,71.88,ViluppuramTamil Nadu
+Coimbatore,Tamil Nadu,18.56%,1000,83.98,CoimbatoreTamil Nadu
+Meerut,Uttar Pradesh,14.89%,886,72.84,MeerutUttar Pradesh
+Gonda,Uttar Pradesh,24.17%,921,58.71,GondaUttar Pradesh
+Sitamarhi,Bihar,27.62%,899,52.05,SitamarhiBihar
+Rae Bareli,Uttar Pradesh,18.56%,943,67.25,Rae BareliUttar Pradesh
+Prakasam,Andhra Pradesh,11.05%,981,63.08,PrakasamAndhra Pradesh
+Nanded,Maharashtra,16.86%,943,75.45,NandedMaharashtra
+Durg,Chhattisgarh,18.98%,988,79.06,DurgChhattisgarh
+Siwan,Bihar,22.70%,988,69.45,SiwanBihar
+Nagaur,Rajasthan,19.20%,950,62.8,NagaurRajasthan
+Thiruvananthapuram,Kerala,2.07%,1087,93.02,ThiruvananthapuramKerala
+Ernakulam,Kerala,5.69%,1027,95.89,ErnakulamKerala
+Indore,Madhya Pradesh,32.88%,928,80.87,IndoreMadhya Pradesh
+Purnia,Bihar,28.33%,921,51.08,PurniaBihar
+Barabanki,Uttar Pradesh,21.96%,910,61.75,BarabankiUttar Pradesh
+Ballia,Uttar Pradesh,17.31%,937,70.94,BalliaUttar Pradesh
+Pratapgarh,Uttar Pradesh,17.50%,998,70.09,PratapgarhUttar Pradesh
+Thrissur,Kerala,4.94%,1108,95.08,ThrissurKerala
+Banaskantha,Gujarat,24.61%,938,65.32,BanaskanthaGujarat
+Unnao,Uttar Pradesh,15.11%,907,66.37,UnnaoUttar Pradesh
+Deoria,Uttar Pradesh,14.31%,1017,71.13,DeoriaUttar Pradesh
+Kozhikode,Kerala,7.20%,1098,95.08,KozhikodeKerala
+Mumbai City,Maharashtra,-7.57%,832,89.21,Mumbai CityMaharashtra
+Tirunelveli,Tamil Nadu,12.97%,1023,82.5,TirunelveliTamil Nadu
+Katihar,Bihar,28.35%,919,52.24,KatiharBihar
+Udaipur,Rajasthan,23.69%,958,61.82,UdaipurRajasthan
+Madurai,Tamil Nadu,17.84%,990,83.45,MaduraiTamil Nadu
+Bhagalpur,Bihar,25.36%,880,63.14,BhagalpurBihar
+Medak,Andhra Pradesh,13.60%,992,61.42,MedakAndhra Pradesh
+Uttar Dinajpur,West Bengal,23.15%,939,59.07,Uttar DinajpurWest Bengal
+Shahjahanpur,Uttar Pradesh,18.00%,872,59.54,ShahjahanpurUttar Pradesh
+Satara,Maharashtra,6.93%,988,82.87,SataraMaharashtra
+Mysore,Karnataka,13.63%,985,72.79,MysoreKarnataka
+Begusarai,Bihar,26.44%,895,63.87,BegusaraiBihar
+Sri Potti Sriramulu Nellore,Andhra Pradesh,11.05%,985,68.9,Sri Potti Sriramulu NelloreAndhra Pradesh
+Rohtas,Bihar,20.78%,918,73.37,RohtasBihar
+Puruliya,West Bengal,15.52%,957,64.48,PuruliyaWest Bengal
+Ranchi,Jharkhand,23.98%,949,76.06,RanchiJharkhand
+Amravati,Maharashtra,10.79%,951,87.38,AmravatiMaharashtra
+YSR,Andhra Pradesh,10.79%,985,67.3,YSRAndhra Pradesh
+Bhavnagar,Gujarat,16.63%,933,75.52,BhavnagarGujarat
+Nalanda,Bihar,21.39%,922,64.43,NalandaBihar
+Nagaon,Assam,22.00%,962,72.37,NagaonAssam
+Sangli,Maharashtra,9.24%,966,81.48,SangliMaharashtra
+Koch Bihar,West Bengal,13.71%,942,74.78,Koch BiharWest Bengal
+Araria,Bihar,30.25%,921,53.53,ArariaBihar
+Palakkad,Kerala,7.35%,1067,89.31,PalakkadKerala
+Khammam,Andhra Pradesh,8.47%,1011,64.81,KhammamAndhra Pradesh
+Yavatmal,Maharashtra,12.78%,952,82.82,YavatmalMaharashtra
+Junagadh,Gujarat,12.05%,953,75.8,JunagadhGujarat
+Adilabad,Andhra Pradesh,10.18%,1001,61.01,AdilabadAndhra Pradesh
+South Delhi,Delhi,20.51%,862,86.57,South DelhiDelhi
+Bhojpur,Bihar,21.63%,907,70.47,BhojpurBihar
+Tiruchirappalli,Tamil Nadu,12.57%,1013,83.23,TiruchirappalliTamil Nadu
+Srikakulam,Andhra Pradesh,6.52%,1015,61.74,SrikakulamAndhra Pradesh
+Maharajganj,Uttar Pradesh,23.50%,943,62.76,MaharajganjUttar Pradesh
+Dhanbad,Jharkhand,11.99%,909,74.52,DhanbadJharkhand
+Tumkur,Karnataka,3.65%,984,75.14,TumkurKarnataka
+Sikar,Rajasthan,17.03%,947,71.91,SikarRajasthan
+Bilaspur,Chhattisgarh,33.29%,971,70.78,BilaspurChhattisgarh
+Kollam,Kerala,1.94%,1113,94.09,KollamKerala
+Raigarh,Maharashtra,19.31%,959,83.14,RaigarhMaharashtra
+Fatehpur,Uttar Pradesh,14.05%,901,67.43,FatehpurUttar Pradesh
+Cuttack,Orissa,12.10%,940,85.5,CuttackOrissa
+Cuddalore,Tamil Nadu,14.02%,987,78.04,CuddaloreTamil Nadu
+Barmer,Rajasthan,32.52%,902,56.53,BarmerRajasthan
+Buldana,Maharashtra,15.85%,934,83.4,BuldanaMaharashtra
+Bid,Maharashtra,19.61%,916,76.99,BidMaharashtra
+Ajmer,Rajasthan,18.40%,951,69.33,AjmerRajasthan
+Gulbarga,Karnataka,18.01%,971,64.85,GulbargaKarnataka
+Gopalganj,Bihar,19.02%,1021,65.47,GopalganjBihar
+Siddharth Nagar,Uttar Pradesh,25.45%,976,59.25,Siddharth NagarUttar Pradesh
+Nizamabad,Andhra Pradesh,8.77%,1040,61.25,NizamabadAndhra Pradesh
+Bharatpur,Rajasthan,21.29%,880,70.11,BharatpurRajasthan
+Mathura,Uttar Pradesh,22.78%,863,70.36,MathuraUttar Pradesh
+West Delhi,Delhi,19.46%,875,86.98,West DelhiDelhi
+Aurangabad,Bihar,26.18%,926,70.32,AurangabadBihar
+Kannur,Kerala,4.73%,1136,95.1,KannurKerala
+Mayurbhanj,Orissa,13.33%,1006,63.17,MayurbhanjOrissa
+Firozabad,Uttar Pradesh,21.69%,875,71.92,FirozabadUttar Pradesh
+Mirzapur,Uttar Pradesh,18.00%,903,68.48,MirzapurUttar Pradesh
+Amritsar,Punjab,15.47%,889,76.27,AmritsarPunjab
+Tiruppur,Tamil Nadu,29.11%,989,78.68,TiruppurTamil Nadu
+Faizabad,Uttar Pradesh,18.29%,962,68.73,FaizabadUttar Pradesh
+Tiruvannamalai,Tamil Nadu,12.75%,994,74.21,TiruvannamalaiTamil Nadu
+Basti,Uttar Pradesh,18.21%,963,67.22,BastiUttar Pradesh
+Jabalpur,Madhya Pradesh,14.51%,929,81.07,JabalpurMadhya Pradesh
+Latur,Maharashtra,17.97%,928,77.26,LaturMaharashtra
+Bellary,Karnataka,20.99%,983,67.43,BellaryKarnataka
+Giridih,Jharkhand,28.41%,944,63.14,GiridihJharkhand
+Sabarkantha,Gujarat,16.62%,952,75.79,SabarkanthaGujarat
+Bhilwara,Rajasthan,19.60%,973,61.37,BhilwaraRajasthan
+Thanjavur,Tamil Nadu,8.56%,1035,82.64,ThanjavurTamil Nadu
+Ambedkar Nagar,Uttar Pradesh,18.30%,978,72.23,Ambedkar NagarUttar Pradesh
+PanchMahal,Gujarat,18.05%,949,70.99,PanchMahalGujarat
+Sagar,Madhya Pradesh,17.63%,893,76.46,SagarMadhya Pradesh
+Bhopal,Madhya Pradesh,28.62%,918,80.37,BhopalMadhya Pradesh
+Rewa,Madhya Pradesh,19.86%,931,71.62,RewaMadhya Pradesh
+Bikaner,Rajasthan,41.19%,905,65.13,BikanerRajasthan
+Surguja,Chhattisgarh,19.66%,978,60.01,SurgujaChhattisgarh
+Vizianagaram,Andhra Pradesh,4.23%,1019,58.89,VizianagaramAndhra Pradesh
+Rampur,Uttar Pradesh,21.42%,909,53.34,RampurUttar Pradesh
+Baleshwar,Orissa,14.62%,957,79.79,BaleshwarOrissa
+Kheda,Gujarat,13.62%,940,82.65,KhedaGujarat
+Gurdaspur,Punjab,9.26%,895,79.95,GurdaspurPunjab
+Purbi Singhbhum,Jharkhand,15.68%,949,75.49,Purbi SinghbhumJharkhand
+South West Delhi,Delhi,30.65%,840,88.28,South West DelhiDelhi
+Erode,Tamil Nadu,11.66%,993,72.58,ErodeTamil Nadu
+Khordha,Orissa,19.94%,929,86.88,KhordhaOrissa
+North East Delhi,Delhi,26.78%,886,83.09,North East DelhiDelhi
+Supaul,Bihar,28.66%,929,57.67,SupaulBihar
+Satna,Madhya Pradesh,19.19%,926,72.26,SatnaMadhya Pradesh
+Nawada,Bihar,22.63%,939,59.76,NawadaBihar
+Mau,Uttar Pradesh,18.98%,979,73.09,MauUttar Pradesh
+Chandrapur,Maharashtra,6.43%,961,80.01,ChandrapurMaharashtra
+Jalandhar,Punjab,11.76%,915,82.48,JalandharPunjab
+Dhar,Madhya Pradesh,25.60%,964,59,DharMadhya Pradesh
+Bijapur,Karnataka,20.50%,960,67.15,BijapurKarnataka
+Jamnagar,Gujarat,13.44%,939,73.65,JamnagarGujarat
+Dindigul,Tamil Nadu,12.31%,998,76.26,DindigulTamil Nadu
+Balrampur,Uttar Pradesh,27.72%,928,49.51,BalrampurUttar Pradesh
+Jhunjhunun,Rajasthan,11.67%,950,74.13,JhunjhununRajasthan
+Alappuzha,Kerala,0.88%,1100,95.72,AlappuzhaKerala
+Dohad,Gujarat,29.98%,990,58.82,DohadGujarat
+Sundargarh,Orissa,14.35%,973,73.34,SundargarhOrissa
+Anand,Gujarat,12.70%,925,84.37,AnandGujarat
+Kachchh,Gujarat,32.16%,908,70.59,KachchhGujarat
+Chhindwara,Madhya Pradesh,13.07%,964,71.16,ChhindwaraMadhya Pradesh
+Dakshina Kannada,Karnataka,10.11%,1020,88.57,Dakshina KannadaKarnataka
+Bokaro,Jharkhand,16.01%,922,72.01,BokaroJharkhand
+Dhule,Maharashtra,20.08%,946,72.8,DhuleMaharashtra
+Churu,Rajasthan,6.01%,940,66.75,ChuruRajasthan
+Pali,Rajasthan,11.94%,987,62.39,PaliRajasthan
+Mahesana,Gujarat,10.73%,926,83.61,MahesanaGujarat
+Banka,Bihar,26.48%,907,58.17,BankaBihar
+Gwalior,Madhya Pradesh,24.50%,864,76.65,GwaliorMadhya Pradesh
+Pilibhit,Uttar Pradesh,23.45%,895,61.47,PilibhitUttar Pradesh
+Firozpur,Punjab,16.21%,893,68.92,FirozpurPunjab
+Madhepura,Bihar,31.12%,911,52.25,MadhepuraBihar
+Jhansi,Uttar Pradesh,14.54%,890,75.05,JhansiUttar Pradesh
+Ujjain,Madhya Pradesh,16.12%,955,72.34,UjjainMadhya Pradesh
+Kottayam,Kerala,1.07%,1039,97.21,KottayamKerala
+Ganganagar,Rajasthan,10.04%,887,69.64,GanganagarRajasthan
+Morena,Madhya Pradesh,23.44%,840,71.03,MorenaMadhya Pradesh
+Jalna,Maharashtra,21.46%,937,71.52,JalnaMaharashtra
+Chandauli,Uttar Pradesh,18.83%,918,71.48,ChandauliUttar Pradesh
+Kota,Rajasthan,24.39%,911,76.56,KotaRajasthan
+Dhubri,Assam,24.44%,953,58.34,DhubriAssam
+Davanagere,Karnataka,8.63%,972,75.74,DavanagereKarnataka
+Virudhunagar,Tamil Nadu,10.91%,1007,80.15,VirudhunagarTamil Nadu
+Palamu,Jharkhand,26.17%,928,63.63,PalamuJharkhand
+Raichur,Karnataka,15.51%,1000,59.56,RaichurKarnataka
+Sonitpur,Assam,15.55%,956,67.34,SonitpurAssam
+Saharsa,Bihar,26.02%,906,53.2,SaharsaBihar
+Patiala,Punjab,19.62%,891,75.28,PatialaPunjab
+Haridwar,Uttarakhand,30.63%,880,73.43,HaridwarUttarakhand
+Bagalkot,Karnataka,14.40%,989,68.82,BagalkotKarnataka
+Farrukhabad,Uttar Pradesh,20.05%,874,69.04,FarrukhabadUttar Pradesh
+Krishnagiri,Tamil Nadu,20.41%,958,71.46,KrishnagiriTamil Nadu
+West Nimar,Madhya Pradesh,22.85%,965,62.7,West NimarMadhya Pradesh
+Kanniyakumari,Tamil Nadu,11.60%,1019,91.75,KanniyakumariTamil Nadu
+Mainpuri,Uttar Pradesh,17.02%,881,75.99,MainpuriUttar Pradesh
+Sonbhadra,Uttar Pradesh,27.27%,918,64.03,SonbhadraUttar Pradesh
+Dharwad,Karnataka,15.13%,971,80,DharwadKarnataka
+Darjiling,West Bengal,14.77%,970,79.56,DarjilingWest Bengal
+Jyotiba Phule Nagar,Uttar Pradesh,22.76%,910,63.84,Jyotiba Phule NagarUttar Pradesh
+Parbhani,Maharashtra,20.19%,947,73.34,ParbhaniMaharashtra
+Jalor,Rajasthan,26.21%,952,54.86,JalorRajasthan
+Jajapur,Orissa,12.49%,973,80.13,JajapurOrissa
+Akola,Maharashtra,11.27%,946,88.05,AkolaMaharashtra
+Faridabad,Haryana,32.54%,873,81.7,FaridabadHaryana
+Mandya,Karnataka,2.38%,995,70.4,MandyaKarnataka
+Kendujhar,Orissa,15.35%,988,68.24,KendujharOrissa
+Banda,Uttar Pradesh,17.05%,863,66.67,BandaUttar Pradesh
+Banswara,Rajasthan,26.53%,980,56.33,BanswaraRajasthan
+Ramabai Nagar,Uttar Pradesh,14.89%,865,75.78,Ramabai NagarUttar Pradesh
+Hassan,Karnataka,3.18%,1010,76.07,HassanKarnataka
+Hanumangarh,Rajasthan,16.91%,906,67.13,HanumangarhRajasthan
+Etah,Uttar Pradesh,13.62%,873,70.81,EtahUttar Pradesh
+Chhattarpur,Madhya Pradesh,19.51%,883,63.74,ChhattarpurMadhya Pradesh
+Jamui,Bihar,25.85%,922,59.79,JamuiBihar
+Surendranagar,Gujarat,15.91%,930,72.13,SurendranagarGujarat
+Shimoga,Karnataka,6.71%,998,80.45,ShimogaKarnataka
+Thoothukkudi,Tamil Nadu,11.32%,1023,86.16,ThoothukkudiTamil Nadu
+Hisar,Haryana,13.45%,872,72.89,HisarHaryana
+Cachar,Assam,20.19%,959,79.34,CacharAssam
+Hazaribagh,Jharkhand,20.65%,947,69.75,HazaribaghJharkhand
+Namakkal,Tamil Nadu,15.61%,986,74.63,NamakkalTamil Nadu
+Shivpuri,Madhya Pradesh,22.76%,877,62.55,ShivpuriMadhya Pradesh
+West Tripura,Tripura,12.57%,962,88.69,West TripuraTripura
+Sant Kabir Nagar,Uttar Pradesh,20.77%,972,66.72,Sant Kabir NagarUttar Pradesh
+East Delhi,Delhi,16.79%,884,89.31,East DelhiDelhi
+Buxar,Bihar,21.67%,922,70.14,BuxarBihar
+Valsad,Gujarat,20.92%,922,78.55,ValsadGujarat
+Bidar,Karnataka,13.37%,956,70.51,BidarKarnataka
+Bhind,Madhya Pradesh,19.21%,837,75.26,BhindMadhya Pradesh
+Balaghat,Madhya Pradesh,13.60%,1021,77.09,BalaghatMadhya Pradesh
+Puri,Orissa,13.05%,963,84.67,PuriOrissa
+Dehradun,Uttarakhand,32.33%,902,84.25,DehradunUttarakhand
+Barpeta,Assam,21.43%,953,63.81,BarpetaAssam
+Kishanganj,Bihar,30.40%,950,55.46,KishanganjBihar
+Jalaun,Uttar Pradesh,16.19%,865,73.75,JalaunUttar Pradesh
+Dakshin Dinajpur,West Bengal,11.52%,956,72.82,Dakshin DinajpurWest Bengal
+Khagaria,Bihar,30.19%,886,57.92,KhagariaBihar
+Chitradurga,Karnataka,9.33%,974,73.71,ChitradurgaKarnataka
+Osmanabad,Maharashtra,11.50%,924,78.44,OsmanabadMaharashtra
+Kannauj,Uttar Pradesh,19.27%,879,72.7,KannaujUttar Pradesh
+Sangrur,Punjab,12.35%,885,67.99,SangrurPunjab
+Balangir,Orissa,23.32%,987,64.72,BalangirOrissa
+Udham Singh Nagar,Uttarakhand,33.45%,920,73.1,Udham Singh NagarUttarakhand
+Nandurbar,Maharashtra,25.66%,978,64.38,NandurbarMaharashtra
+Gautam Buddha Nagar,Uttar Pradesh,37.11%,851,80.12,Gautam Buddha NagarUttar Pradesh
+Bhiwani,Haryana,14.70%,886,75.21,BhiwaniHaryana
+Dausa,Rajasthan,24.09%,905,68.16,DausaRajasthan
+Kaimur,Bihar,26.17%,920,69.34,KaimurBihar
+Janjgir Champa,Chhattisgarh,22.94%,986,73.07,Janjgir ChampaChhattisgarh
+Pudukkottai,Tamil Nadu,10.88%,1015,77.19,PudukkottaiTamil Nadu
+Nagapattinam,Tamil Nadu,8.57%,1025,83.59,NagapattinamTamil Nadu
+Ratnagiri,Maharashtra,-4.82%,1122,82.18,RatnagiriMaharashtra
+Kaushambi,Uttar Pradesh,23.70%,908,61.28,KaushambiUttar Pradesh
+Haveri,Karnataka,11.02%,950,77.4,HaveriKarnataka
+Hoshiarpur,Punjab,7.11%,961,84.59,HoshiarpurPunjab
+Etawah,Uttar Pradesh,18.15%,870,78.41,EtawahUttar Pradesh
+Sant Ravidas Nagar,Uttar Pradesh,16.58%,955,68.97,Sant Ravidas NagarUttar Pradesh
+Kalahandi,Orissa,18.07%,1003,59.22,KalahandiOrissa
+Betul,Madhya Pradesh,12.92%,971,68.9,BetulMadhya Pradesh
+Mahamaya Nagar,Uttar Pradesh,17.12%,871,71.59,Mahamaya NagarUttar Pradesh
+Dewas,Madhya Pradesh,19.53%,942,69.35,DewasMadhya Pradesh
+Bharuch,Gujarat,13.16%,925,81.51,BharuchGujarat
+Rajgarh,Madhya Pradesh,23.26%,956,61.21,RajgarhMadhya Pradesh
+Chittaurgarh,Rajasthan,16.08%,972,61.71,ChittaurgarhRajasthan
+Rajnandgaon,Chhattisgarh,19.79%,1015,75.96,RajnandgaonChhattisgarh
+Kolar,Karnataka,10.77%,979,74.39,KolarKarnataka
+Jammu,Jammu and Kashmir,12.74%,880,83.45,JammuJammu and Kashmir
+Kamrup,Assam,15.69%,949,75.55,KamrupAssam
+Gurgaon,Haryana,73.96%,854,84.7,GurgaonHaryana
+Amreli,Gujarat,8.63%,964,74.25,AmreliGujarat
+Shajapur,Madhya Pradesh,17.20%,938,69.09,ShajapurMadhya Pradesh
+Kangra,Himachal Pradesh,12.77%,1012,85.67,KangraHimachal Pradesh
+Dharmapuri,Tamil Nadu,16.34%,946,68.54,DharmapuriTamil Nadu
+Bhadrak,Orissa,12.94%,981,82.78,BhadrakOrissa
+Karnal,Haryana,18.14%,887,74.73,KarnalHaryana
+Pashchimi Singhbhum,Jharkhand,21.75%,1005,58.63,Pashchimi SinghbhumJharkhand
+Raigarh,Chhattisgarh,18.05%,991,73.26,RaigarhChhattisgarh
+Deoghar,Jharkhand,28.03%,925,64.85,DeogharJharkhand
+Bargarh,Orissa,10.02%,977,74.62,BargarhOrissa
+Vidisha,Madhya Pradesh,20.09%,896,70.53,VidishaMadhya Pradesh
+Karauli,Rajasthan,20.55%,861,66.22,KarauliRajasthan
+Ratlam,Madhya Pradesh,19.72%,971,66.78,RatlamMadhya Pradesh
+Sonipat,Haryana,13.35%,856,79.12,SonipatHaryana
+Tikamgarh,Madhya Pradesh,20.13%,901,61.43,TikamgarhMadhya Pradesh
+Kendrapara,Orissa,10.63%,1007,85.15,KendraparaOrissa
+Uttara Kannada,Karnataka,6.17%,979,84.06,Uttara KannadaKarnataka
+Kanshiram Nagar,Uttar Pradesh,16.93%,880,61.02,Kanshiram NagarUttar Pradesh
+Tonk,Rajasthan,17.30%,952,61.58,TonkRajasthan
+Bastar,Chhattisgarh,17.96%,1023,54.4,BastarChhattisgarh
+Jhalawar,Rajasthan,19.55%,946,61.5,JhalawarRajasthan
+Gandhinagar,Gujarat,4.29%,923,84.16,GandhinagarGujarat
+Koppal,Karnataka,16.21%,986,68.09,KoppalKarnataka
+Dungarpur,Rajasthan,25.36%,994,59.46,DungarpurRajasthan
+Bathinda,Punjab,17.34%,868,68.28,BathindaPunjab
+Barwani,Madhya Pradesh,27.57%,982,49.08,BarwaniMadhya Pradesh
+Koraput,Orissa,16.86%,1032,49.21,KoraputOrissa
+Auraiya,Uttar Pradesh,16.91%,864,78.95,AuraiyaUttar Pradesh
+Seoni,Madhya Pradesh,18.22%,982,72.12,SeoniMadhya Pradesh
+Munger,Bihar,20.21%,876,70.46,MungerBihar
+Ramanathapuram,Tamil Nadu,13.96%,983,80.72,RamanathapuramTamil Nadu
+Patan,Gujarat,13.61%,935,72.3,PatanGujarat
+Mandsaur,Madhya Pradesh,13.24%,963,71.78,MandsaurMadhya Pradesh
+Sivaganga,Tamil Nadu,15.90%,1003,79.85,SivagangaTamil Nadu
+Sawai Madhopur,Rajasthan,19.56%,897,65.39,Sawai MadhopurRajasthan
+Jind,Haryana,12.13%,871,71.44,JindHaryana
+Raisen,Madhya Pradesh,18.35%,901,72.98,RaisenMadhya Pradesh
+Navsari,Gujarat,8.15%,961,83.88,NavsariGujarat
+Tinsukia,Assam,15.47%,952,69.66,TinsukiaAssam
+Dibrugarh,Assam,11.92%,961,76.05,DibrugarhAssam
+Garhwa,Jharkhand,27.75%,935,60.33,GarhwaJharkhand
+Gondiya,Maharashtra,10.14%,999,84.95,GondiyaMaharashtra
+Dumka,Jharkhand,19.42%,977,61.02,DumkaJharkhand
+Godda,Jharkhand,25.35%,938,56.4,GoddaJharkhand
+Sehore,Madhya Pradesh,21.54%,918,70.06,SehoreMadhya Pradesh
+East Nimar,Madhya Pradesh,21.50%,943,66.39,East NimarMadhya Pradesh
+Kasaragod,Kerala,8.58%,1080,90.09,KasaragodKerala
+Baghpat,Uttar Pradesh,11.95%,861,72.01,BaghpatUttar Pradesh
+Wardha,Maharashtra,5.18%,946,86.99,WardhaMaharashtra
+Sirsa,Haryana,15.99%,897,68.82,SirsaHaryana
+Katni,Madhya Pradesh,21.41%,952,71.98,KatniMadhya Pradesh
+Anugul,Orissa,11.74%,943,77.53,AnugulOrissa
+Thiruvarur,Tamil Nadu,8.11%,1017,82.86,ThiruvarurTamil Nadu
+Damoh,Madhya Pradesh,16.63%,910,69.73,DamohMadhya Pradesh
+Chikkaballapura,Karnataka,9.23%,972,69.76,ChikkaballapuraKarnataka
+Kamrup Metropolitan,Assam,18.34%,936,88.71,Kamrup MetropolitanAssam
+Theni,Tamil Nadu,13.89%,991,77.26,TheniTamil Nadu
+Guna,Madhya Pradesh,26.97%,912,63.23,GunaMadhya Pradesh
+Hoshangabad,Madhya Pradesh,14.49%,914,75.29,HoshangabadMadhya Pradesh
+Srinagar,Jammu and Kashmir,20.35%,900,69.41,SrinagarJammu and Kashmir
+Karimganj,Assam,21.90%,963,78.22,KarimganjAssam
+Baran,Rajasthan,19.68%,929,66.66,BaranRajasthan
+Lalitpur,Uttar Pradesh,24.94%,906,63.52,LalitpurUttar Pradesh
+Nabarangapur,Orissa,19.03%,1019,46.43,NabarangapurOrissa
+Yamunanagar,Haryana,16.57%,877,77.99,YamunanagarHaryana
+Korba,Chhattisgarh,19.25%,969,72.37,KorbaChhattisgarh
+Dhaulpur,Rajasthan,22.71%,846,69.08,DhaulpurRajasthan
+Panipat,Haryana,24.60%,864,75.94,PanipatHaryana
+Bhandara,Maharashtra,5.65%,982,83.76,BhandaraMaharashtra
+Pathanamthitta,Kerala,-2.97%,1132,96.55,PathanamthittaKerala
+Washim,Maharashtra,17.34%,930,83.25,WashimMaharashtra
+Dhenkanal,Orissa,11.80%,947,78.76,DhenkanalOrissa
+Singrauli,Madhya Pradesh,28.05%,920,60.41,SingrauliMadhya Pradesh
+Udupi,Karnataka,5.85%,1094,86.24,UdupiKarnataka
+Hingoli,Maharashtra,19.27%,942,78.17,HingoliMaharashtra
+Yadgir,Karnataka,22.81%,989,51.83,YadgirKarnataka
+Rajsamand,Rajasthan,17.18%,990,63.14,RajsamandRajasthan
+Sivasagar,Assam,9.44%,954,80.41,SivasagarAssam
+Sahibganj,Jharkhand,24.01%,952,52.04,SahibganjJharkhand
+Chikmagalur,Karnataka,-0.26%,1008,79.25,ChikmagalurKarnataka
+Jagatsinghapur,Orissa,7.50%,968,86.59,JagatsinghapurOrissa
+Ambala,Haryana,11.23%,885,81.75,AmbalaHaryana
+Sidhi,Madhya Pradesh,23.72%,957,64.43,SidhiMadhya Pradesh
+Jehanabad,Bihar,21.68%,922,66.8,JehanabadBihar
+Tarn Taran,Punjab,19.23%,900,67.81,Tarn TaranPunjab
+Shrawasti,Uttar Pradesh,-5.02%,881,46.74,ShrawastiUttar Pradesh
+Bundi,Rajasthan,15.40%,925,61.52,BundiRajasthan
+Idukki,Kerala,-1.79%,1006,91.99,IdukkiKerala
+Hamirpur,Uttar Pradesh,5.80%,861,68.77,HamirpurUttar Pradesh
+Jorhat,Assam,9.31%,962,82.15,JorhatAssam
+Narsimhapur,Madhya Pradesh,14.01%,920,75.69,NarsimhapurMadhya Pradesh
+Mewat,Haryana,37.93%,907,54.08,MewatHaryana
+Ramanagara,Karnataka,5.05%,976,69.22,RamanagaraKarnataka
+Anantnag,Jammu and Kashmir,38.58%,927,62.69,AnantnagJammu and Kashmir
+Kaithal,Haryana,13.55%,881,69.15,KaithalHaryana
+Gadchiroli,Maharashtra,10.58%,982,74.36,GadchiroliMaharashtra
+Golaghat,Assam,12.75%,964,77.43,GolaghatAssam
+Shahdol,Madhya Pradesh,17.39%,974,66.67,ShahdolMadhya Pradesh
+Saraikela Kharsawan,Jharkhand,25.47%,956,67.7,Saraikela KharsawanJharkhand
+Gadag,Karnataka,9.54%,982,75.12,GadagKarnataka
+Karur,Tamil Nadu,13.77%,1015,75.6,KarurTamil Nadu
+Rohtak,Haryana,12.88%,867,80.22,RohtakHaryana
+Chandigarh,Chandigarh,17.19%,818,86.05,ChandigarhChandigarh
+Mandla,Madhya Pradesh,17.97%,1008,66.87,MandlaMadhya Pradesh
+Chatra,Jharkhand,31.77%,953,60.18,ChatraJharkhand
+Palwal,Haryana,25.76%,880,69.32,PalwalHaryana
+Lakhimpur,Assam,17.22%,968,77.2,LakhimpurAssam
+Sambalpur,Orissa,11.27%,976,76.22,SambalpurOrissa
+Sirohi,Rajasthan,21.76%,940,55.25,SirohiRajasthan
+Mahasamund,Chhattisgarh,20.05%,1017,71.02,MahasamundChhattisgarh
+Gumla,Jharkhand,23.16%,993,65.73,GumlaJharkhand
+Jhabua,Madhya Pradesh,30.70%,990,43.3,JhabuaMadhya Pradesh
+Chamarajanagar,Karnataka,5.73%,993,61.43,ChamarajanagarKarnataka
+Panna,Madhya Pradesh,18.67%,905,64.79,PannaMadhya Pradesh
+Goalpara,Assam,22.64%,964,67.37,GoalparaAssam
+Baramula,Jammu and Kashmir,19.45%,885,64.63,BaramulaJammu and Kashmir
+Lakhisarai,Bihar,24.77%,902,62.42,LakhisaraiBihar
+Mandi,Himachal Pradesh,10.92%,1007,81.53,MandiHimachal Pradesh
+Moga,Punjab,11.28%,893,70.68,MogaPunjab
+Mohali,Punjab,33.15%,879,83.8,MohaliPunjab
+Chitrakoot,Uttar Pradesh,29.43%,879,65.05,ChitrakootUttar Pradesh
+Bangalore Rural,Karnataka,16.45%,946,77.93,Bangalore RuralKarnataka
+Rayagada,Orissa,16.46%,1051,49.76,RayagadaOrissa
+Kurukshetra,Haryana,16.86%,888,76.31,KurukshetraHaryana
+Nayagarh,Orissa,11.37%,915,80.42,NayagarhOrissa
+Jhajjar,Haryana,8.90%,862,80.65,JhajjarHaryana
+Morigaon,Assam,23.34%,967,68.03,MorigaonAssam
+Karbi Anglong,Assam,17.58%,951,69.25,Karbi AnglongAssam
+Nainital,Uttarakhand,25.13%,934,83.88,NainitalUttarakhand
+Puducherry,Puducherry,29.23%,1029,85.44,PuducherryPuducherry
+Baksa,Assam,10.74%,974,69.25,BaksaAssam
+Ramgarh,Jharkhand,13.10%,921,73.17,RamgarhJharkhand
+Fatehabad,Haryana,16.85%,902,67.92,FatehabadHaryana
+Darrang,Assam,22.19%,954,63.08,DarrangAssam
+Mahendragarh,Haryana,13.48%,895,77.72,MahendragarhHaryana
+Muktsar,Punjab,16.00%,896,65.81,MuktsarPunjab
+Pakur,Jharkhand,28.33%,989,48.82,PakurJharkhand
+Rewari,Haryana,17.64%,898,80.99,RewariHaryana
+North Delhi,Delhi,13.62%,869,86.85,North DelhiDelhi
+Kokrajhar,Assam,5.21%,959,65.22,KokrajharAssam
+South Tripura,Tripura,14.15%,957,84.66,South TripuraTripura
+Mahoba,Uttar Pradesh,23.64%,878,65.27,MahobaUttar Pradesh
+Kupwara,Jammu and Kashmir,33.82%,835,64.51,KupwaraJammu and Kashmir
+Pratapgarh,Rajasthan,22.78%,983,55.97,PratapgarhRajasthan
+Jashpur,Chhattisgarh,14.60%,1005,67.92,JashpurChhattisgarh
+Sindhudurg,Maharashtra,-2.21%,1036,85.56,SindhudurgMaharashtra
+Ashoknagar,Madhya Pradesh,22.66%,904,66.42,AshoknagarMadhya Pradesh
+Udalguri,Assam,9.61%,973,65.41,UdalguriAssam
+Neemuch,Madhya Pradesh,13.77%,954,70.8,NeemuchMadhya Pradesh
+East Khasi Hills,Meghalaya,24.96%,1011,84.15,East Khasi HillsMeghalaya
+Kabirdham,Chhattisgarh,40.71%,996,60.85,KabirdhamChhattisgarh
+North Goa,Goa,7.84%,963,89.57,North GoaGoa
+Wayanad,Kerala,4.71%,1035,89.03,WayanadKerala
+Kapurthala,Punjab,8.04%,912,79.07,KapurthalaPunjab
+Shimla,Himachal Pradesh,12.67%,915,83.64,ShimlaHimachal Pradesh
+Tapi,Gujarat,12.14%,1007,68.26,TapiGujarat
+Dhamtari,Chhattisgarh,13.19%,1010,78.36,DhamtariChhattisgarh
+Jamtara,Jharkhand,21.12%,954,64.59,JamtaraJharkhand
+Datia,Madhya Pradesh,18.46%,873,72.63,DatiaMadhya Pradesh
+Nalbari,Assam,11.99%,949,78.63,NalbariAssam
+Mansa,Punjab,11.76%,883,61.83,MansaPunjab
+Burhanpur,Madhya Pradesh,19.37%,951,64.36,BurhanpurMadhya Pradesh
+Ariyalur,Tamil Nadu,8.54%,1015,71.34,AriyalurTamil Nadu
+Badgam,Jammu and Kashmir,24.14%,894,56.08,BadgamJammu and Kashmir
+Anuppur,Madhya Pradesh,12.30%,976,67.88,AnuppurMadhya Pradesh
+Kanker,Chhattisgarh,15.06%,1006,70.29,KankerChhattisgarh
+Bongaigaon,Assam,20.59%,966,69.74,BongaigaonAssam
+The Nilgiris,Tamil Nadu,-3.51%,1042,85.2,The NilgirisTamil Nadu
+Kandhamal,Orissa,13.10%,1037,64.13,KandhamalOrissa
+Alirajpur,Madhya Pradesh,19.45%,1011,36.1,AlirajpurMadhya Pradesh
+Latehar,Jharkhand,29.61%,967,59.51,LateharJharkhand
+Kodarma,Jharkhand,43.42%,950,66.84,KodarmaJharkhand
+Dindori,Madhya Pradesh,21.32%,1002,63.9,DindoriMadhya Pradesh
+Arwal,Bihar,18.89%,928,67.43,ArwalBihar
+North Tripura,Tripura,17.44%,967,87.5,North TripuraTripura
+Sheopur,Madhya Pradesh,22.94%,901,57.43,SheopurMadhya Pradesh
+Pauri Garhwal,Uttarakhand,-1.41%,1103,82.02,Pauri GarhwalUttarakhand
+Dhemaji,Assam,19.97%,953,72.7,DhemajiAssam
+Rupnagar,Punjab,8.87%,915,82.19,RupnagarPunjab
+Jaisalmer,Rajasthan,31.81%,852,57.22,JaisalmerRajasthan
+Hailakandi,Assam,21.45%,951,74.33,HailakandiAssam
+Korea,Chhattisgarh,12.38%,968,70.64,KoreaChhattisgarh
+Sheohar,Bihar,27.19%,893,53.78,SheoharBihar
+Umaria,Madhya Pradesh,24.96%,950,65.89,UmariaMadhya Pradesh
+West Garo Hills,Meghalaya,24.09%,984,67.58,West Garo HillsMeghalaya
+Rajouri,Jammu and Kashmir,32.93%,860,68.17,RajouriJammu and Kashmir
+South Goa,Goa,8.73%,986,87.59,South GoaGoa
+Sheikhpura,Bihar,21.09%,930,63.86,SheikhpuraBihar
+Almora,Uttarakhand,-1.28%,1139,80.47,AlmoraUttarakhand
+Tehri Garhwal,Uttarakhand,2.35%,1077,76.36,Tehri GarhwalUttarakhand
+Faridkot,Punjab,12.09%,890,69.55,FaridkotPunjab
+Kathua,Jammu and Kashmir,20.53%,890,73.09,KathuaJammu and Kashmir
+Malkangiri,Orissa,21.62%,1020,48.54,MalkangiriOrissa
+Shahid Bhagat Singh Nagar,Punjab,4.23%,954,79.78,Shahid Bhagat Singh NagarPunjab
+Nuapada,Orissa,15.02%,1021,57.35,NuapadaOrissa
+Subarnapur,Orissa,12.61%,960,74.42,SubarnapurOrissa
+Fatehgarh Sahib,Punjab,11.46%,871,79.35,Fatehgarh SahibPunjab
+Simdega,Jharkhand,16.58%,997,67.99,SimdegaJharkhand
+Barnala,Punjab,13.02%,876,67.82,BarnalaPunjab
+Narmada,Gujarat,14.75%,961,72.31,NarmadaGujarat
+Porbandar,Gujarat,9.06%,950,75.78,PorbandarGujarat
+Central Delhi,Delhi,-9.91%,892,85.14,Central DelhiDelhi
+Solan,Himachal Pradesh,15.93%,880,83.68,SolanHimachal Pradesh
+Jharsuguda,Orissa,13.69%,953,78.86,JharsugudaOrissa
+Gajapati,Orissa,11.37%,1043,53.49,GajapatiOrissa
+Harda,Madhya Pradesh,20.25%,935,72.5,HardaMadhya Pradesh
+Perambalur,Tamil Nadu,14.50%,1003,74.32,PerambalurTamil Nadu
+Panchkula,Haryana,19.83%,873,81.88,PanchkulaHaryana
+Pulwama,Jammu and Kashmir,27.00%,912,63.48,PulwamaJammu and Kashmir
+Udhampur,Jammu and Kashmir,20.78%,870,68.49,UdhampurJammu and Kashmir
+Kodagu,Karnataka,1.09%,1019,82.61,KodaguKarnataka
+Dantewada,Chhattisgarh,12.08%,1020,42.12,DantewadaChhattisgarh
+Khunti,Jharkhand,22.32%,997,63.86,KhuntiJharkhand
+Sirmaur,Himachal Pradesh,15.54%,918,78.8,SirmaurHimachal Pradesh
+Una,Himachal Pradesh,16.26%,976,86.53,UnaHimachal Pradesh
+Chamba,Himachal Pradesh,12.63%,986,72.17,ChambaHimachal Pradesh
+Imphal West,Manipur,16.56%,1031,86.08,Imphal WestManipur
+Pithoragarh,Uttarakhand,4.58%,1020,82.25,PithoragarhUttarakhand
+Chirang,Assam,11.34%,969,63.55,ChirangAssam
+Senapati,Manipur,68.94%,937,63.6,SenapatiManipur
+Punch,Jammu and Kashmir,27.97%,893,66.74,PunchJammu and Kashmir
+Lohardaga,Jharkhand,26.68%,985,67.61,LohardagaJharkhand
+Imphal East,Manipur,15.51%,1017,81.95,Imphal EastManipur
+Hamirpur,Himachal Pradesh,10.19%,1095,88.15,HamirpurHimachal Pradesh
+Baudh,Orissa,18.16%,991,71.61,BaudhOrissa
+Kullu,Himachal Pradesh,14.76%,942,79.4,KulluHimachal Pradesh
+Kulgam,Jammu and Kashmir,7.73%,951,59.23,KulgamJammu and Kashmir
+Thoubal,Manipur,15.94%,1002,74.47,ThoubalManipur
+Doda,Jammu and Kashmir,28.00%,919,64.68,DodaJammu and Kashmir
+Aizawl,Mizoram,22.92%,1009,97.89,AizawlMizoram
+Jaintia Hills,Meghalaya,32.10%,1013,61.64,Jaintia HillsMeghalaya
+Bandipora,Jammu and Kashmir,28.65%,889,56.28,BandiporaJammu and Kashmir
+Chamoli,Uttarakhand,5.74%,1019,82.65,ChamoliUttarakhand
+West Khasi Hills,Meghalaya,29.53%,980,77.87,West Khasi HillsMeghalaya
+Bilaspur,Himachal Pradesh,12.05%,981,84.59,BilaspurHimachal Pradesh
+Dimapur,Nagaland,127.29%,919,84.79,DimapurNagaland
+Dhalai,Tripura,22.85%,944,85.72,DhalaiTripura
+Dadra and Nagar Haveli,Dadra and Nagar Haveli,55.88%,774,76.24,Dadra and Nagar HaveliDadra and Nagar Haveli
+Uttarkashi,Uttarakhand,11.89%,958,75.81,UttarkashiUttarakhand
+Samba,Jammu and Kashmir,17.01%,886,81.41,SambaJammu and Kashmir
+East Garo Hills,Meghalaya,26.87%,972,73.95,East Garo HillsMeghalaya
+Reasi,Jammu and Kashmir,27.04%,890,58.15,ReasiJammu and Kashmir
+Debagarh,Orissa,14.01%,975,72.57,DebagarhOrissa
+Ganderbal,Jammu and Kashmir,36.50%,874,58.04,GanderbalJammu and Kashmir
+Ramban,Jammu and Kashmir,31.99%,902,54.27,RambanJammu and Kashmir
+East Sikkim,Sikkim,15.73%,873,83.85,East SikkimSikkim
+Churachandpur,Manipur,20.29%,975,82.78,ChurachandpurManipur
+Kohima,Nagaland,131.81%,928,85.23,KohimaNagaland
+Shupiyan,Jammu and Kashmir,25.97%,951,60.76,ShupiyanJammu and Kashmir
+Bageshwar,Uttarakhand,4.18%,1090,80.01,BageshwarUttarakhand
+Champawat,Uttarakhand,15.63%,980,79.83,ChampawatUttarakhand
+Ri Bhoi,Meghalaya,34.26%,953,75.67,Ri BhoiMeghalaya
+Bijapur,Chhattisgarh,8.78%,984,40.86,BijapurChhattisgarh
+Mon,Nagaland,80.36%,899,56.99,MonNagaland
+Rudraprayag,Uttarakhand,6.53%,1114,81.3,RudraprayagUttarakhand
+South Andaman,Andaman And Nicobar Islands,14.23%,871,89.13,South AndamanAndaman And Nicobar Islands
+Bishnupur,Manipur,13.93%,999,75.85,BishnupurManipur
+Kishtwar,Jammu and Kashmir,20.88%,920,56.2,KishtwarJammu and Kashmir
+The Dangs,Gujarat,22.26%,1006,75.16,The DangsGujarat
+Dima Hasao,Assam,13.84%,932,77.54,Dima HasaoAssam
+Karaikal,Puducherry,17.23%,1047,87.05,KaraikalPuducherry
+Tuensang,Nagaland,94.83%,929,73.08,TuensangNagaland
+Mokokchung,Nagaland,60.94%,925,91.62,MokokchungNagaland
+Daman,Daman and Diu,67.71%,534,88.07,DamanDaman and Diu
+Ukhrul,Manipur,30.70%,943,81.35,UkhrulManipur
+Papumpare,Arunachal Pradesh,44.73%,980,79.95,PapumpareArunachal Pradesh
+Wokha,Nagaland,98.81%,968,87.69,WokhaNagaland
+Phek,Nagaland,111.84%,951,78.05,PhekNagaland
+Lunglei,Mizoram,17.64%,947,88.86,LungleiMizoram
+Changlang,Arunachal Pradesh,18.18%,926,59.8,ChanglangArunachal Pradesh
+South Sikkim,Sikkim,11.65%,915,81.42,South SikkimSikkim
+Lohit,Arunachal Pradesh,16.59%,912,68.18,LohitArunachal Pradesh
+Chandel,Manipur,21.85%,933,71.11,ChandelManipur
+South Garo Hills,Meghalaya,40.95%,945,71.72,South Garo HillsMeghalaya
+New Delhi,Delhi,-20.72%,822,88.34,New DelhiDelhi
+Kargil,Jammu and Kashmir,18.02%,810,71.34,KargilJammu and Kashmir
+Zunheboto,Nagaland,78.05%,976,85.26,ZunhebotoNagaland
+Tamenglong,Manipur,26.15%,943,70.05,TamenglongManipur
+Narayanpur,Chhattisgarh,19.16%,994,48.62,NarayanpurChhattisgarh
+West Sikkim,Sikkim,10.69%,942,77.39,West SikkimSikkim
+Leh,Jammu and Kashmir,13.87%,690,77.2,LehJammu and Kashmir
+Champhai,Mizoram,16.01%,984,95.91,ChamphaiMizoram
+Lawngtlai,Mizoram,60.14%,945,65.88,LawngtlaiMizoram
+West Siang,Arunachal Pradesh,8.04%,930,66.46,West SiangArunachal Pradesh
+Tirap,Arunachal Pradesh,11.61%,944,52.19,TirapArunachal Pradesh
+North And Middle Andaman,Andaman And Nicobar Islands,-0.02%,925,83.91,North And Middle AndamanAndaman And Nicobar Islands
+East Siang,Arunachal Pradesh,13.52%,980,72.54,East SiangArunachal Pradesh
+Peren,Nagaland,104.15%,915,77.95,PerenNagaland
+Kurung Kumey,Arunachal Pradesh,116.56%,1032,48.75,Kurung KumeyArunachal Pradesh
+Mamit,Mizoram,37.56%,927,84.93,MamitMizoram
+Kinnaur,Himachal Pradesh,7.39%,819,80,KinnaurHimachal Pradesh
+Kolasib,Mizoram,27.28%,956,93.5,KolasibMizoram
+West Kameng,Arunachal Pradesh,12.53%,819,67.07,West KamengArunachal Pradesh
+Upper Subansiri,Arunachal Pradesh,50.78%,998,63.8,Upper SubansiriArunachal Pradesh
+Lower Subansiri,Arunachal Pradesh,49.00%,984,74.35,Lower SubansiriArunachal Pradesh
+East Kameng,Arunachal Pradesh,37.62%,1029,60.02,East KamengArunachal Pradesh
+Kiphire,Nagaland,38.58%,956,69.54,KiphireNagaland
+Serchhip,Mizoram,20.56%,977,97.91,SerchhipMizoram
+Lakshadweep,Lakshadweep,6.30%,946,91.85,LakshadweepLakshadweep
+Saiha,Mizoram,-7.34%,979,90.01,SaihaMizoram
+Yanam,Puducherry,77.19%,1038,79.47,YanamPuducherry
+Lower Dibang Valley,Arunachal Pradesh,7.20%,928,69.13,Lower Dibang ValleyArunachal Pradesh
+Diu,Daman and Diu,17.77%,1031,83.46,DiuDaman and Diu
+Longleng,Nagaland,-21.57%,905,72.17,LonglengNagaland
+Tawang,Arunachal Pradesh,28.40%,714,59,TawangArunachal Pradesh
+North Sikkim,Sikkim,6.53%,767,78.01,North SikkimSikkim
+Mahe,Puducherry,13.54%,1184,97.87,MahePuducherry
+Nicobars,Andaman And Nicobar Islands,-12.42%,777,78.06,NicobarsAndaman And Nicobar Islands
+Upper Siang,Arunachal Pradesh,5.87%,889,59.99,Upper SiangArunachal Pradesh
+Lahul and Spiti,Himachal Pradesh,-5.00%,903,76.81,Lahul and SpitiHimachal Pradesh
+Anjaw,Arunachal Pradesh,14.19%,839,56.46,AnjawArunachal Pradesh
+Dibang Valley,Arunachal Pradesh,10.07%,813,64.1,Dibang ValleyArunachal Pradesh
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
